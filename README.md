@@ -1,6 +1,6 @@
-<img align="center" width="2000" height="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-<h2 align="center">Hi 👋, I'm Chamod Dulanjana Full-Stack Developer (Still Learning 🤪) 👨‍💻</h2>
-<h3 align="center">A passionate Full-Stack Developer from Sri Lanka</h3>
+<img align="center" width="2000" height="800" src="https://i.pinimg.com/564x/49/c6/e1/49c6e1672b1f53fcd21d17ebebeabab1.jpg">
+<h2 align="center">Hi 👋, I'm Chamod Dulanjana </h2>
+<h3 align="center">A passionate Full-Stack Developer from Sri Lanka (Still Learning 🤪) 👨‍💻</h3>
 
 - 🔭 I’m currently working on my knowledge improvement project 😝
 - 🌱 I’m currently learning at [IJSE - Institute of Software Engineering](https://ijse.lk/)
