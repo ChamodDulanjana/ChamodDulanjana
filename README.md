@@ -1,4 +1,4 @@
-<img align="center" width="2000" height="800" src="https://i.pinimg.com/564x/49/c6/e1/49c6e1672b1f53fcd21d17ebebeabab1.jpg">
+<img align="center" width="1000" height="500" src="https://i.pinimg.com/564x/48/5c/1d/485c1d1fc54003ab547df7013366b508.jpg">
 <h2 align="center">Hi 👋, I'm Chamod Dulanjana </h2>
 <h3 align="center">A passionate Full-Stack Developer from Sri Lanka (Still Learning 🤪) 👨‍💻</h3>
 
