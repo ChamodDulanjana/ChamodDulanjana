@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full-Stack Developer from Sri Lanka (Still Learning 🤪) 👨‍💻</h3>
 
 - 🔭 I’m currently working on my knowledge improvement project 😝
-- 🌱 I’m currently learning at [IJSE - Institute of Software Engineering](https://ijse.lk/)
+- 🌱 I’m currently learning at [ESU - Esoft UNI](https://www.esu.lk/)
 - 📫 How to reach me chamodperera128@gmail.com
 - 💬 Ask me about java
 
